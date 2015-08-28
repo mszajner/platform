@@ -60,7 +60,8 @@ div.navbar-inner .help a:hover {
     line-height: 20px;
     font-weight: 700;
     padding: 15px 30px;
-    background-color: #fafafa
+    background-color: #fafafa;
+    border-radius: 7px 7px 0 0;
 }
 
 .content .body {
